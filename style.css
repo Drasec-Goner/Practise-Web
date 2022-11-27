@@ -1,0 +1,24 @@
+table{
+    margin-top: 30vh;
+    margin-left: 10vw;
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    border: 3px solid red;
+    height: 100px;
+    width: 300px;
+}
+th {
+    font-size: 21px;
+}
+td{
+    border: 1px solid red;
+    height: 100px;
+    width: 300px;
+}
+
+/* #mid{
+    padding-right: 100px;
+    padding-left: 100px;
+} */
